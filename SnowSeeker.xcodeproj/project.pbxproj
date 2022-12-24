@@ -7,18 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DDA129572940BB9C0012C0E8 /* resortss.json in Resources */ = {isa = PBXBuildFile; fileRef = DDA129562940BB9C0012C0E8 /* resortss.json */; };
+		DDA129592940CBEC0012C0E8 /* Welcome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA129582940CBEC0012C0E8 /* Welcome.swift */; };
+		DDA1295B2940D0DC0012C0E8 /* ResortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA1295A2940D0DC0012C0E8 /* ResortView.swift */; };
+		DDA1295D2940D30B0012C0E8 /* SkiDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA1295C2940D30B0012C0E8 /* SkiDetailsView.swift */; };
+		DDA1295F2940D4B70012C0E8 /* ResortDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA1295E2940D4B70012C0E8 /* ResortDetailsView.swift */; };
+		DDB9644C2941B3D000E32C21 /* Facility.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB9644B2941B3D000E32C21 /* Facility.swift */; };
+		DDB9644E2941B42F00E32C21 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB9644D2941B42F00E32C21 /* Favorites.swift */; };
 		DDE9B23E294075EF00288F0F /* SnowSeekerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE9B23D294075EF00288F0F /* SnowSeekerApp.swift */; };
 		DDE9B240294075EF00288F0F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE9B23F294075EF00288F0F /* ContentView.swift */; };
 		DDE9B242294075F000288F0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDE9B241294075F000288F0F /* Assets.xcassets */; };
 		DDE9B245294075F000288F0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDE9B244294075F000288F0F /* Preview Assets.xcassets */; };
+		DDE9B24C2940764300288F0F /* Project description in Resources */ = {isa = PBXBuildFile; fileRef = DDE9B24B2940764300288F0F /* Project description */; };
+		DDE9B25329409B4000288F0F /* Resort.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE9B25229409B4000288F0F /* Resort.swift */; };
+		DDE9B25529409C3F00288F0F /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE9B25429409C3F00288F0F /* Bundle-Decodable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DDA129552940BA650012C0E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		DDA129562940BB9C0012C0E8 /* resortss.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = resortss.json; sourceTree = "<group>"; };
+		DDA129582940CBEC0012C0E8 /* Welcome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Welcome.swift; sourceTree = "<group>"; };
+		DDA1295A2940D0DC0012C0E8 /* ResortView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortView.swift; sourceTree = "<group>"; };
+		DDA1295C2940D30B0012C0E8 /* SkiDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiDetailsView.swift; sourceTree = "<group>"; };
+		DDA1295E2940D4B70012C0E8 /* ResortDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortDetailsView.swift; sourceTree = "<group>"; };
+		DDB9644B2941B3D000E32C21 /* Facility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facility.swift; sourceTree = "<group>"; };
+		DDB9644D2941B42F00E32C21 /* Favorites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
 		DDE9B23A294075EF00288F0F /* SnowSeeker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnowSeeker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDE9B23D294075EF00288F0F /* SnowSeekerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowSeekerApp.swift; sourceTree = "<group>"; };
 		DDE9B23F294075EF00288F0F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DDE9B241294075F000288F0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDE9B244294075F000288F0F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DDE9B24B2940764300288F0F /* Project description */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Project description"; sourceTree = "<group>"; };
+		DDE9B25229409B4000288F0F /* Resort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resort.swift; sourceTree = "<group>"; };
+		DDE9B25429409C3F00288F0F /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +72,19 @@
 		DDE9B23C294075EF00288F0F /* SnowSeeker */ = {
 			isa = PBXGroup;
 			children = (
+				DDA129552940BA650012C0E8 /* Info.plist */,
 				DDE9B23D294075EF00288F0F /* SnowSeekerApp.swift */,
 				DDE9B23F294075EF00288F0F /* ContentView.swift */,
+				DDA1295C2940D30B0012C0E8 /* SkiDetailsView.swift */,
+				DDA1295E2940D4B70012C0E8 /* ResortDetailsView.swift */,
+				DDB9644D2941B42F00E32C21 /* Favorites.swift */,
+				DDA129582940CBEC0012C0E8 /* Welcome.swift */,
+				DDE9B25229409B4000288F0F /* Resort.swift */,
+				DDB9644B2941B3D000E32C21 /* Facility.swift */,
+				DDA1295A2940D0DC0012C0E8 /* ResortView.swift */,
+				DDA129562940BB9C0012C0E8 /* resortss.json */,
+				DDE9B25429409C3F00288F0F /* Bundle-Decodable.swift */,
+				DDE9B24B2940764300288F0F /* Project description */,
 				DDE9B241294075F000288F0F /* Assets.xcassets */,
 				DDE9B243294075F000288F0F /* Preview Content */,
 			);
@@ -127,6 +159,8 @@
 			files = (
 				DDE9B245294075F000288F0F /* Preview Assets.xcassets in Resources */,
 				DDE9B242294075F000288F0F /* Assets.xcassets in Resources */,
+				DDA129572940BB9C0012C0E8 /* resortss.json in Resources */,
+				DDE9B24C2940764300288F0F /* Project description in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +172,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDE9B240294075EF00288F0F /* ContentView.swift in Sources */,
+				DDA1295D2940D30B0012C0E8 /* SkiDetailsView.swift in Sources */,
+				DDA1295F2940D4B70012C0E8 /* ResortDetailsView.swift in Sources */,
+				DDB9644E2941B42F00E32C21 /* Favorites.swift in Sources */,
+				DDB9644C2941B3D000E32C21 /* Facility.swift in Sources */,
+				DDA129592940CBEC0012C0E8 /* Welcome.swift in Sources */,
+				DDE9B25329409B4000288F0F /* Resort.swift in Sources */,
+				DDA1295B2940D0DC0012C0E8 /* ResortView.swift in Sources */,
 				DDE9B23E294075EF00288F0F /* SnowSeekerApp.swift in Sources */,
+				DDE9B25529409C3F00288F0F /* Bundle-Decodable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,12 +313,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SnowSeeker/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SnowSeeker/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,12 +343,13 @@
 				DEVELOPMENT_ASSET_PATHS = "\"SnowSeeker/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SnowSeeker/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
